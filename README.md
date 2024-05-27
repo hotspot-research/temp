@@ -24,7 +24,7 @@ Data from 80 participants was collected via [UXtweak's user panel](https://www.u
 - [Funnels](./analysis/data/funnels.csv): Quantity of transitions between prototype screens during individual tasks.
 - [Interactions](./analysis/data/interactions.csv): Individual user clicks used to generate the heatmaps.
 - [Respondents](./analysis/data/respondents.csv): Respondent data such as demographics.
-- [Results](./analysis/data/respondents.csv): Results of individual tasks, including majority of analyzed variables.
+- [Results](./analysis/data/results.csv): Results of individual tasks, including majority of analyzed variables.
 
 
 ## Scripts
@@ -62,7 +62,7 @@ Following files are present in the [scripts directory](/analysis/scripts):
 
 - [Data preparation](/analysis/scripts/1_data-preparation.ipynb) of raw data files - data cleaning, column renaming and merging into resulting files, calculating metrics.
 - Exploratory data analysis of the dataset:
-  - [Respondents data](/analysis/scripts/2-1_respondents_eda.ipynb).
+  - [Respondents data](/analysis/scripts/2-1_respondents_eda.ipynb)
   - [Results data](/analysis/scripts/2-2_results_eda.ipynb)
 - [Hypothesis testing](/analysis/scripts/3_tests.R) - using statistical tests (in R)
 
@@ -99,8 +99,14 @@ See below for additional experiment information not present in the article.
 ### Prototypes
 
 Both Figma prototype variants are publicly available:
-- [Streamlined variant](https://www.figma.com/proto/9MTV4BQNbyoBhAsB5j2qij/Hotspots-not-interactive?t=RLEEJ0FW7ruasofj-1&scaling=min-zoom&page-id=0%3A1&node-id=108-3618&starting-point-node-id=108%3A3618&show-proto-sidebar=1)
-- [Exploratory variant](https://www.figma.com/proto/HumyDETYixChKKwf6W8KZi/Hotspots-interactive?node-id=1-502&t=pHdfKLfKXL5BX8zE-0&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=108%3A3618&show-proto-sidebar=1&hotspot-hints=0)
+- Streamlined variant
+  - [Task 1](https://www.figma.com/proto/HumyDETYixChKKwf6W8KZi/Hotspots-interactive?node-id=1-945&t=pHdfKLfKXL5BX8zE-0&scaling=scale-down-width&page-id=0%3A1&starting-point-node-id=108%3A3618&hotspot-hints=0)
+  - [Task 2](https://www.figma.com/proto/HumyDETYixChKKwf6W8KZi/Hotspots-interactive?node-id=1-502&t=pHdfKLfKXL5BX8zE-0&scaling=scale-down-width&page-id=0%3A1&starting-point-node-id=108%3A3836&hotspot-hints=0)
+  - [Task 3](https://www.figma.com/proto/HumyDETYixChKKwf6W8KZi/Hotspots-interactive?node-id=108-3843&t=pHdfKLfKXL5BX8zE-0&scaling=scale-down-width&page-id=0%3A1&starting-point-node-id=108%3A3843&hotspot-hints=0)
+- Exploratory variant
+  - [Task 1](https://www.figma.com/proto/9MTV4BQNbyoBhAsB5j2qij/Hotspots-not-interactive?t=RLEEJ0FW7ruasofj-1&scaling=scale-down-width&page-id=0%3A1&node-id=1-502&starting-point-node-id=108%3A3618)
+  - [Task 2](https://www.figma.com/proto/9MTV4BQNbyoBhAsB5j2qij/Hotspots-not-interactive?t=RLEEJ0FW7ruasofj-1&scaling=scale-down-width&page-id=0%3A1&node-id=108-3836&starting-point-node-id=108%3A3836)
+  - [Task 3](https://www.figma.com/proto/9MTV4BQNbyoBhAsB5j2qij/Hotspots-not-interactive?t=RLEEJ0FW7ruasofj-1&scaling=scale-down-width&page-id=0%3A1&node-id=108-3843&starting-point-node-id=108%3A3843)
 
 
 ### Prototype usability issues
