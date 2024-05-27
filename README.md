@@ -29,7 +29,7 @@ Data from 80 participants was collected via [UXtweak's user panel](https://www.u
 
 ## Scripts
 
-See below for guidelines on configuring the virtual environment used for data analysis, an explanation of key scripts found in the file structure and resulting files.
+See below for guidelines on configuring the virtual environment used for data analysis and explanation of key scripts found in the file structure.
 
 
 ### Environment 
