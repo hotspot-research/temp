@@ -100,11 +100,11 @@ See below for additional experiment information not present in the article.
 
 Both Figma prototype variants are publicly available:
 - Streamlined variant
-  - [Task 1](https://www.figma.com/proto/HumyDETYixChKKwf6W8KZi/Hotspots-interactive?node-id=1-945&t=pHdfKLfKXL5BX8zE-0&scaling=scale-down-width&page-id=0%3A1&starting-point-node-id=108%3A3618&hotspot-hints=0)
-  - [Task 2](https://www.figma.com/proto/HumyDETYixChKKwf6W8KZi/Hotspots-interactive?node-id=1-502&t=pHdfKLfKXL5BX8zE-0&scaling=scale-down-width&page-id=0%3A1&starting-point-node-id=108%3A3836&hotspot-hints=0)
+  - [Task 1](https://www.figma.com/proto/HumyDETYixChKKwf6W8KZi/Hotspots-interactive?node-id=108-3618&t=pHdfKLfKXL5BX8zE-0&scaling=scale-down-width&page-id=0%3A1&starting-point-node-id=108%3A3618&hotspot-hints=0)
+  - [Task 2](https://www.figma.com/proto/HumyDETYixChKKwf6W8KZi/Hotspots-interactive?node-id=108-3836&t=pHdfKLfKXL5BX8zE-0&scaling=scale-down-width&page-id=0%3A1&starting-point-node-id=108%3A3836&hotspot-hints=0)
   - [Task 3](https://www.figma.com/proto/HumyDETYixChKKwf6W8KZi/Hotspots-interactive?node-id=108-3843&t=pHdfKLfKXL5BX8zE-0&scaling=scale-down-width&page-id=0%3A1&starting-point-node-id=108%3A3843&hotspot-hints=0)
 - Exploratory variant
-  - [Task 1](https://www.figma.com/proto/9MTV4BQNbyoBhAsB5j2qij/Hotspots-not-interactive?t=RLEEJ0FW7ruasofj-1&scaling=scale-down-width&page-id=0%3A1&node-id=1-502&starting-point-node-id=108%3A3618)
+  - [Task 1](https://www.figma.com/proto/9MTV4BQNbyoBhAsB5j2qij/Hotspots-not-interactive?t=RLEEJ0FW7ruasofj-1&scaling=scale-down-width&page-id=0%3A1&node-id=108-3618&starting-point-node-id=108%3A3618)
   - [Task 2](https://www.figma.com/proto/9MTV4BQNbyoBhAsB5j2qij/Hotspots-not-interactive?t=RLEEJ0FW7ruasofj-1&scaling=scale-down-width&page-id=0%3A1&node-id=108-3836&starting-point-node-id=108%3A3836)
   - [Task 3](https://www.figma.com/proto/9MTV4BQNbyoBhAsB5j2qij/Hotspots-not-interactive?t=RLEEJ0FW7ruasofj-1&scaling=scale-down-width&page-id=0%3A1&node-id=108-3843&starting-point-node-id=108%3A3843)
 
