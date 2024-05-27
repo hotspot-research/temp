@@ -117,7 +117,7 @@ for (column in results_categorical) {
   res$task <- NA
   chi_results <- rbind(chi_results, res)
   for (task in c(1, 2, 3)) {
-    res <- my_chi(results[results$task == task,], column, "variant")
+    res <- my_chi(results[results$task == task, ], column, "variant")
     res$task <- task
     chi_results <- rbind(chi_results, res)
   }
@@ -145,7 +145,7 @@ chi_results_2 <- rbind(chi_results_2, data.frame(
   p = test$p.value,
   Xsquared = as.numeric(test$statistic),
   df = as.numeric(test$parameter),
-  cohenW = as.numeric(cohenW(c(24, 92), p=c(.5, .5))),
+  cohenW = as.numeric(cohenW(c(24, 92), p = c(.5, .5))),
   n = sum(c(24, 92)),
   task = NA
 ))
@@ -159,7 +159,7 @@ for(task in seq(3)){
     p = test$p.value,
     Xsquared = as.numeric(test$statistic),
     df = as.numeric(test$parameter),
-    cohenW = as.numeric(cohenW(temp, p=c(.5, .5))),
+    cohenW = as.numeric(cohenW(temp, p = c(.5, .5))),
     n = sum(temp),
     task = task
   ))
