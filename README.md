@@ -61,7 +61,6 @@ Additionally, R language was also used. For executing the script, one has to hav
 Following files are present in the [scripts directory](/analysis/scripts):
 
 - [Data preparation](/analysis/scripts/1_data-preparation.ipynb) of raw data files - data cleaning, column renaming and merging into resulting files, calculating metrics.
-- [Data calculation](/analysis/scripts/1-2_data-calculation.ipynb)
 - Exploratory data analysis of the dataset:
   - [Respondents data](/analysis/scripts/2-1_respondents_eda.ipynb).
   - [Results data](/analysis/scripts/2-2_results_eda.ipynb)
