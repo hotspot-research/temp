@@ -2,7 +2,7 @@
 
 ## About
 
-This is the official repository for the research paper *"NAME"*. The work addresses hotspot highlighting - receiving a hint as to what is interactive when clicking on a non-interactive part of the prototype. It investigates user behavior during prototype testing with different kinds of prototype fidelity in combination with hotspot highlighting.
+This is the official repository for the research paper *"NAME"*. The work addresses hotspot highlighting - receiving a hint for what is interactive when clicking on a non-interactive part of the prototype. It investigates user behavior during prototype testing with different kinds of prototype fidelity in combination with hotspot highlighting.
 
 ### Paper citation
 
