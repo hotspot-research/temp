@@ -81,15 +81,16 @@ Results of statistical tests are available in .csv format in [results directory]
 
 All relevant heatmaps are present in the [heatmaps directory](./heatmaps):
 
-|Screen|Streamlined heatmap|Exploratory heatmap|
-|---|---|---|
-|HOME|[Task 1](./heatmaps/HOME-task1-streamlined.png), [Task 2](./heatmaps/HOME-task2-streamlined.png), [Task 3](./heatmaps/HOME-task3-streamlined.png)|[Task 1](./heatmaps/HOME-task1-exploratory.png), [Task 2](./heatmaps/HOME-task2-exploratory.png), [Task 3](./heatmaps/HOME-task3-exploratory.png)|
-|TSHIRTS|[Task 1](./heatmaps/TSHIRTS-task1-streamlined.png), [Task 2](./heatmaps/TSHIRTS-task2-streamlined.png)|[Task 1](./heatmaps/TSHIRTS-task1-exploratory.png), [Task 2](./heatmaps/TSHIRTS-task2-exploratory.png)|
-|TSHIRT|[Task 1](./heatmaps/TSHIRT-task1-streamlined.png), [Task 2](./heatmaps/TSHIRT-task2-streamlined.png)|[Task 1](./heatmaps/TSHIRT-task1-exploratory.png), [Task 2](./heatmaps/TSHIRT-task2-exploratory.png)|
-|WISHLIST|[Task 2](./heatmaps/WISHLIST-task2-streamlined.png)|[Task 2](./heatmaps/WISHLIST-task2-exploratory.png)|
-|CART|[Task 2](./heatmaps/CART-task2-streamlined.png)|[Task 2](./heatmaps/CART-task2-exploratory.png)|
-|PROFILE-PURCHASES|[Task 3](./heatmaps/PROFILE_PURCHASES-task3-streamlined.png)|[Task 3](./heatmaps/PROFILE_PURCHASES-task3-exploratory.png)|
-|PROFILE-RETURNS|[Task 3](./heatmaps/PROFILE_RETURNS-task3-streamlined.png)|[Task 3](./heatmaps/PROFILE_RETURNS-task3-exploratory.png)|
+|Screen|All click heatmaps||First click heatmaps||
+|---|---|---|---|---|
+||*Streamlined variant*|*Exploratory variant*|*Streamlined variant*|*Exploratory variant*|
+|HOME|[Task 1](./heatmaps/HOME-task1-streamlined.png), [Task 2](./heatmaps/HOME-task2-streamlined.png), [Task 3](./heatmaps/HOME-task3-streamlined.png)|[Task 1](./heatmaps/HOME-task1-exploratory.png), [Task 2](./heatmaps/HOME-task2-exploratory.png), [Task 3](./heatmaps/HOME-task3-exploratory.png)|[Task 1](./heatmaps/HOME-task1-streamlined-first.png), [Task 2](./heatmaps/HOME-task2-streamlined-first.png), [Task 3](./heatmaps/HOME-task3-streamlined-first.png)|[Task 1](./heatmaps/HOME-task1-exploratory-first.png), [Task 2](./heatmaps/HOME-task2-exploratory-first.png), [Task 3](./heatmaps/HOME-task3-exploratory-first.png)|
+|TSHIRTS|[Task 1](./heatmaps/TSHIRTS-task1-streamlined.png), [Task 2](./heatmaps/TSHIRTS-task2-streamlined.png)|[Task 1](./heatmaps/TSHIRTS-task1-exploratory.png), [Task 2](./heatmaps/TSHIRTS-task2-exploratory.png)|[Task 1](./heatmaps/TSHIRTS-task1-streamlined-first.png), [Task 2](./heatmaps/TSHIRTS-task2-streamlined-first.png)|[Task 1](./heatmaps/TSHIRTS-task1-exploratory-first.png), [Task 2](./heatmaps/TSHIRTS-task2-exploratory-first.png)|
+|TSHIRT|[Task 1](./heatmaps/TSHIRT-task1-streamlined.png), [Task 2](./heatmaps/TSHIRT-task2-streamlined.png)|[Task 1](./heatmaps/TSHIRT-task1-exploratory.png), [Task 2](./heatmaps/TSHIRT-task2-exploratory.png)|[Task 1](./heatmaps/TSHIRT-task1-streamlined-first.png), [Task 2](./heatmaps/TSHIRT-task2-streamlined-first.png)|[Task 1](./heatmaps/TSHIRT-task1-exploratory-first.png), [Task 2](./heatmaps/TSHIRT-task2-exploratory-first.png)|
+|WISHLIST|[Task 2](./heatmaps/WISHLIST-task2-streamlined.png)|[Task 2](./heatmaps/WISHLIST-task2-exploratory.png)|[Task 2](./heatmaps/WISHLIST-task2-streamlined-first.png)|[Task 2](./heatmaps/WISHLIST-task2-exploratory-first.png)|
+|CART|[Task 2](./heatmaps/CART-task2-streamlined.png)|[Task 2](./heatmaps/CART-task2-exploratory.png)|[Task 2](./heatmaps/CART-task2-streamlined-first.png)|[Task 2](./heatmaps/CART-task2-exploratory-first.png)|
+|PROFILE-PURCHASES|[Task 3](./heatmaps/PROFILE_PURCHASES-task3-streamlined.png)|[Task 3](./heatmaps/PROFILE_PURCHASES-task3-exploratory.png)|[Task 3](./heatmaps/PROFILE_PURCHASES-task3-streamlined-first.png)|[Task 3](./heatmaps/PROFILE_PURCHASES-task3-exploratory-first.png)|
+|PROFILE-RETURNS|[Task 3](./heatmaps/PROFILE_RETURNS-task3-streamlined.png)|[Task 3](./heatmaps/PROFILE_RETURNS-task3-exploratory.png)|[Task 3](./heatmaps/PROFILE_RETURNS-task3-streamlined-first.png)|[Task 3](./heatmaps/PROFILE_RETURNS-task3-exploratory-first.png)|
 
 
 ## Experiment
