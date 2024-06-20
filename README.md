@@ -106,14 +106,14 @@ Experiment previews are publicly available for both variants:
 ### Prototypes
 
 Both Figma prototype variants are publicly available:
-- Streamlined variant
-  - [Task 1 prototype](https://www.figma.com/proto/HumyDETYixChKKwf6W8KZi/Hotspots-interactive?node-id=108-3618&t=pHdfKLfKXL5BX8zE-0&scaling=scale-down-width&page-id=0%3A1&starting-point-node-id=108%3A3618&hotspot-hints=0)
-  - [Task 2 prototype](https://www.figma.com/proto/HumyDETYixChKKwf6W8KZi/Hotspots-interactive?node-id=108-3836&t=pHdfKLfKXL5BX8zE-0&scaling=scale-down-width&page-id=0%3A1&starting-point-node-id=108%3A3836&hotspot-hints=0)
-  - [Task 3 prototype](https://www.figma.com/proto/HumyDETYixChKKwf6W8KZi/Hotspots-interactive?node-id=108-3843&t=pHdfKLfKXL5BX8zE-0&scaling=scale-down-width&page-id=0%3A1&starting-point-node-id=108%3A3843&hotspot-hints=0)
-- Exploratory variant
+- Streamlined varian
   - [Task 1 prototype](https://www.figma.com/proto/9MTV4BQNbyoBhAsB5j2qij/Hotspots-not-interactive?t=RLEEJ0FW7ruasofj-1&scaling=scale-down-width&page-id=0%3A1&node-id=108-3618&starting-point-node-id=108%3A3618)
   - [Task 2 prototype](https://www.figma.com/proto/9MTV4BQNbyoBhAsB5j2qij/Hotspots-not-interactive?t=RLEEJ0FW7ruasofj-1&scaling=scale-down-width&page-id=0%3A1&node-id=108-3836&starting-point-node-id=108%3A3836)
   - [Task 3 prototype](https://www.figma.com/proto/9MTV4BQNbyoBhAsB5j2qij/Hotspots-not-interactive?t=RLEEJ0FW7ruasofj-1&scaling=scale-down-width&page-id=0%3A1&node-id=108-3843&starting-point-node-id=108%3A3843)
+- Exploratory variant
+  - [Task 1 prototype](https://www.figma.com/proto/HumyDETYixChKKwf6W8KZi/Hotspots-interactive?node-id=108-3618&t=pHdfKLfKXL5BX8zE-0&scaling=scale-down-width&page-id=0%3A1&starting-point-node-id=108%3A3618&hotspot-hints=0)
+  - [Task 2 prototype](https://www.figma.com/proto/HumyDETYixChKKwf6W8KZi/Hotspots-interactive?node-id=108-3836&t=pHdfKLfKXL5BX8zE-0&scaling=scale-down-width&page-id=0%3A1&starting-point-node-id=108%3A3836&hotspot-hints=0)
+  - [Task 3 prototype](https://www.figma.com/proto/HumyDETYixChKKwf6W8KZi/Hotspots-interactive?node-id=108-3843&t=pHdfKLfKXL5BX8zE-0&scaling=scale-down-width&page-id=0%3A1&starting-point-node-id=108%3A3843&hotspot-hints=0)
 
 
 ### Prototype usability issues
@@ -166,7 +166,6 @@ What is your personal income per year, after tax?|Single choice|No income<br>£0
 |Using the Pixel Apparel store is a frustrating experience.|1-7 Likert scale||
 |The Pixel Apparel store is easy to use.|1-7 Likert scale||
 I have to spend too much time correcting things with the Pixel Apparel store.|1-7 Likert scale||
-|How likely are you to recommend Pixel Apparel store to a friend or colleague?|0-10 scale||
 |How many months are there in a year? Even though the correct answer is twelve, make sure to choose the option thirty.|Single choice|1<br>7<br>12<br>30<br>365<br>Other|
 |While solving the tasks, did the prototype allow you to click everything that you expected to be clickable? If not, explain.|Open text|In the prototype, clickable areas flashed blue if you clicked an area that cannot be clicked. Choose all options that apply to you: (Multiple choice)<br>I have noticed the blue flashing areas.<br>I have used the blue flashing areas.<br>The blue flashing areas helped me complete the task more easily.<br>I sometimes deliberately clicked unrelated areas of the screen to make the blue flashing areas appear.<br>The blue flashing areas distracted me while navigating the prototype.<br>The blue areas flash too quickly.
 |Is there anything else you’d like to tell us?|Open text||
